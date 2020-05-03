@@ -5,7 +5,7 @@ try:
     
     def password_gen(start, end):
         
-        """  A lightweight module that will generate a random password. 
+        """ A lightweight module that will generate a random password. 
             required Params: length_start(int), length_end(int)
         """
         
